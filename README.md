@@ -1,5 +1,5 @@
 # web-scraper
-This is a web scraper build with axios and cheerio.
+This is a web scraper build with axios and cheerio...
 
 ```
 npm install
